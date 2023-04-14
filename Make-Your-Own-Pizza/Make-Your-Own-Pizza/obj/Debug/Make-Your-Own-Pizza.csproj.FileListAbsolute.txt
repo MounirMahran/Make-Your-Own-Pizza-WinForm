@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\bin\Debug\Make-Your-Own-Pizza.exe.config
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\bin\Debug\Make-Your-Own-Pizza.exe
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\bin\Debug\Make-Your-Own-Pizza.pdb
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make-Your-Own-Pizza.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make-Your-Own-Pizza.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make_Your_Own_Pizza.frmPizzaOrder.resources
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make_Your_Own_Pizza.Properties.Resources.resources
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make-Your-Own-Pizza.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make-Your-Own-Pizza.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make-Your-Own-Pizza.exe
+C:\Users\DELL\Desktop\My-GitHub\Make-Your-Own-Pizza-WinForm\Make-Your-Own-Pizza\Make-Your-Own-Pizza\obj\Debug\Make-Your-Own-Pizza.pdb
